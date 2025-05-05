@@ -51,7 +51,7 @@ for step in range(400):
 
 ### 2. Recycle Series CSTR Environment
 
-![Recycle CSTR Diagram](images/recycle_cstr.png)
+![Recycle CSTR Diagram](./Recycle.png)
 
 **Configuration**: Two reactors in series with recycle stream from the second reactor back to the first.
 
@@ -90,7 +90,7 @@ for step in range(400):
 
 ### 3. Serial-Parallel CSTR Environment
 
-![Serial-Parallel CSTR Diagram](images/serial_parallel_cstr.png)
+![Serial-Parallel CSTR Diagram](./SeriesParallel.png)
 
 **Configuration**: Complex system with four reactors - an input reactor (R1), two parallel reactors (R2 & R3), and an output reactor (R4) with recycle back to R1.
 
