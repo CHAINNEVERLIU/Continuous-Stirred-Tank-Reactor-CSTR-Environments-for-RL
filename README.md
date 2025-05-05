@@ -184,20 +184,6 @@ custom_params = {
 env = RecycleTwoSeriesCSTREnv(process_params=custom_params)
 ```
 
-## Citation
-
-If you use these environments in your research, please cite:
-
-```
-@misc{cstr_environments2025,
-  author = {Your Name},
-  title = {Multi-Configuration CSTR Control Environments},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/yourusername/cstr-environments}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
