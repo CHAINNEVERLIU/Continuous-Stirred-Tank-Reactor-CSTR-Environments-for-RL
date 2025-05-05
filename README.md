@@ -17,7 +17,7 @@ These environments are designed for reinforcement learning research, but can als
 
 ### 1. Simple Series CSTR Environment
 
-![Simple Series CSTR Diagram](images/simple_series_cstr.png)
+![Simple Series CSTR Diagram](./Series.png)
 
 **Configuration**: Two reactors in series, where the output from the first reactor flows into the second.
 
